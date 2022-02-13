@@ -25,5 +25,3 @@ I'm looking forward to be part of webdevelopers.
 
 
 
-
-
