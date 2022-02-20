@@ -5,10 +5,10 @@ I'm ABDIJIBAR
 I'm curious to learn coding,
 and expextto gain further education.
 
-# MY FUTURE
+# MY work
 
-- expecting LEArn coding and software .
-- would like to handle different challenges through webdeveloping.
+-gorillas.
+.
 
 # MY HOBBYS
 
@@ -37,6 +37,8 @@ and expextto gain further education.
 #  BASED IN 
 
 * antwerp 
+
+
 
 
 
