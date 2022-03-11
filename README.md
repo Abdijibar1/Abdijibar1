@@ -3,22 +3,26 @@
 I'm ABDIJIBAR
 
 I'm curious to learn coding,
-and expextto gain further education.
+and expect to  gain further education.
 
 # MY work
 
--gorillas.
-.
+Gorillas
+
 
 # MY HOBBYS
 
-- find interest in football,playing ps4,5.
-- swimming.
-   
-
+- Find interest in football,playing Ps4
+- Swimming.
+  
    # What i like for living.
 
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+* Being with my family and friends
+
+* Like Traveling
+
+I'm arsenal football fan
+![image](https://user-images.githubusercontent.com/99200593/157935269-cb2c6992-94b0-4815-b94f-1c1edddd2185.png)
 
 # LANGUAGES
 
@@ -36,7 +40,7 @@ and expextto gain further education.
 
 #  BASED IN 
 
-* antwerp 
+* Antwerp 
 
 
 
