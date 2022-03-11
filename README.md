@@ -1,24 +1,28 @@
 # Hi there👋🏻
 
-I'm ABDIJIBAR
+I'm abdijibar
 
-I'm curious to learn coding,
-and expextto gain further education.
+Student
 
 # MY work
 
--gorillas.
-.
+Gorillas supermarket
+
+
 
 # MY HOBBYS
 
-- find interest in football,playing ps4,5.
-- swimming.
-   
+* Find interest in football,playing ps4,5
+* Swimming
+* I like watching football and netflix
+* I'm Arsenal fan
+* ![image](https://user-images.githubusercontent.com/99200593/157937158-850b27bf-7893-4cf0-a826-02b706572966.png)   
 
    # What i like for living.
 
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+* I like being wih my family on my freetime
+
+* I like reading 
 
 # LANGUAGES
 
